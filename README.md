@@ -15,6 +15,7 @@
 [![GitHub Followers](https://img.shields.io/github/followers/Shirshendu-sen?style=flat-square&color=7c3aed&label=Followers)](https://github.com/Shirshendu-sen?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/Shirshendu-sen?style=flat-square&color=7c3aed&label=Total+Stars)](https://github.com/Shirshendu-sen)
 
+![Stars](https://img.shields.io/badge/TOTAL_STARS-⭐_Growing-f59e0b?style=for-the-badge&labelColor=1a0533)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-portfolio--shirshendu.web.app-7c3aed?style=for-the-badge&logoColor=white)](https://portfolio-shirshendu.web.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shirshendu_Sen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shirshendu-sen)
 [![Email](https://img.shields.io/badge/Email-shirshendusen7@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shirshendusen7@gmail.com)
