@@ -13,7 +13,7 @@
 <!-- BADGES ROW -->
 [![Profile Views](https://komarev.com/ghpvc/?username=Shirshendu-sen&color=7c3aed&style=flat-square&label=Profile+Views)](https://github.com/Shirshendu-sen)
 [![GitHub Followers](https://img.shields.io/github/followers/Shirshendu-sen?style=flat-square&color=7c3aed&label=Followers)](https://github.com/Shirshendu-sen?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/Shirshendu-sen?style=flat-square&color=7c3aed&label=Total+Stars)](https://github.com/Shirshendu-sen)
+[![GitHub Stars]([https://img.shields.io/github/stars/Shirshendu-sen?style=flat-square&color=7c3aed&label=Total+Stars](https://img.shields.io/github/stars/Shirshendu-sen?affiliations=OWNER&style=for-the-badge&color=f59e0b&labelColor=1a0533&label=TOTAL+STARS&cacheSeconds=3600))](https://github.com/Shirshendu-sen)
 
 <br/>
 
